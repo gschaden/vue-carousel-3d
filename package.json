@@ -1,6 +1,6 @@
 {
   "name": "vue-carousel-3d",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Beautiful, flexible and touch supported 3D Carousel for Vue.js",
   "main": "./dist/carousel-3d.common.js",
   "sideEffects": true,
@@ -34,7 +34,7 @@
   "homepage": "https://github.com/wlada/vue-carousel-3d#readme",
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "vue": "^2.6.12"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
@@ -49,6 +49,6 @@
     "html2jade": "^0.8.6",
     "sass": "^1.26.5",
     "sass-loader": "^8.0.2",
-    "vue-template-compiler": "^2.6.11"
+    "vue-template-compiler": "^2.6.12"
   }
 }
